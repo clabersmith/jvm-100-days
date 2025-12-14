@@ -16,7 +16,7 @@ public class Day04 {
         // }
         // return returnS.toString();
 
-        // using streams
+        // using collection extensions
         return s.chars()
             .mapToObj(c -> (char) c)
             .distinct()
