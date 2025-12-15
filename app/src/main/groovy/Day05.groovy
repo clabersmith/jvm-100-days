@@ -7,6 +7,8 @@ class Day05Groovy {
             }
         }
 
+        return ""
+
         // Uses Groovy collection methods and closures
 //        return s.toList()
 //                .countBy {it}

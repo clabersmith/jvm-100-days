@@ -34,16 +34,16 @@ class Day05Spec extends Specification {
 
     def "groovy get non-repeating alpha"() {
         expect:
-        Day05.getFirstNonRepeatingChar("anAnab") == "A"
+        Day05Groovy.getFirstNonRepeatingChar("anAnab") == "A"
     }
 
     def "groovy get non-repeating numeric"() {
         expect:
-        Day05.getFirstNonRepeatingChar("abc112cba") == "2"
+        Day05Groovy.getFirstNonRepeatingChar("abc112cba") == "2"
     }
 
     def "groovy get no non-repeate"() {
         expect:
-        Day05.getFirstNonRepeatingChar("bananab") == ""
+        Day05Groovy.getFirstNonRepeatingChar("bananab") == ""
     }
 }
