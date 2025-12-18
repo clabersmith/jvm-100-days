@@ -7,8 +7,8 @@
 | 3 | Count the number of vowels in a string | ✅ Completed |
 | 4 | Remove duplicate characters from a string | ✅ Completed |
 | 5 | Find the first non-repeating character in a string | ✅ Completed |
-| 6 | Check if two strings are anagrams | ⬜ Not started |
-| 7 | Compress a string by character counts (e.g., aabcc → a2b1c2) | ⬜ Not started |
+| 6 | Check if two strings are anagrams | ✅ Completed |
+| 7 | Compress a string by character counts (e.g., aabcc → a2b1c2) | ✅ Completed |
 | 8 | Find the longest common prefix among an array of strings | ⬜ Not started |
 | 9 | Capitalize the first letter of each word in a sentence | ⬜ Not started |
 | 10 | Determine whether a string contains only unique characters | ⬜ Not started |
