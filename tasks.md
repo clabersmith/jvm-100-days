@@ -10,7 +10,7 @@
 | 6 | Check if two strings are anagrams | ✅ Completed |
 | 7 | Compress a string by character counts (e.g., aabcc → a2b1c2) | ✅ Completed |
 | 8 | Find the longest common prefix among an array of strings | ✅ Completed |
-| 9 | Capitalize the first letter of each word in a sentence | ⬜ Not started |
+| 9 | Capitalize the first letter of each word in a sentence | ✅ Completed |
 | 10 | Determine whether a string contains only unique characters | ⬜ Not started |
 | 11 | Find the maximum number in a list | ⬜ Not started |
 | 12 | Compute the average of a list of integers | ⬜ Not started |
