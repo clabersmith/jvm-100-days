@@ -23,84 +23,80 @@
 | 19 | Count occurrences of each element in a list | ⬜ Not started |
 | 20 | Find the longest word in a sentence | ⬜ Not started |
 
-
-### Days 21–40: Algorithms & Problem Solving
-
-| Day | Task Description | Status |
-|:---|:------------------|:--------|
-| 21 | Implement binary search | ⬜ Not started |
-| 22 | Return true if a number is prime | ⬜ Not started |
-| 23 | Generate the first N Fibonacci numbers | ⬜ Not started |
-| 24 | Compute factorial iteratively and recursively | ⬜ Not started |
-| 25 | Find the greatest common divisor (GCD) | ⬜ Not started |
-| 26 | Find the least common multiple (LCM) | ⬜ Not started |
-| 27 | Return all prime numbers up to N | ⬜ Not started |
-| 28 | Check if a number is a perfect square | ⬜ Not started |
-| 29 | Sum digits of an integer | ⬜ Not started |
-| 30 | Determine if a number is an Armstrong number | ⬜ Not started |
-| 31 | Sort a list using bubble sort | ⬜ Not started |
-| 32 | Sort a list using selection sort | ⬜ Not started |
-| 33 | Sort a list using insertion sort | ⬜ Not started |
-| 34 | Find the kth smallest element | ⬜ Not started |
-| 35 | Find the majority element in a list | ⬜ Not started |
-| 36 | Move all zeros in an array to the end | ⬜ Not started |
-| 37 | Find the missing number in a sequence 1–N | ⬜ Not started |
-| 38 | Determine if two arrays represent the same set | ⬜ Not started |
-| 39 | Check if an array contains duplicates | ⬜ Not started |
-| 40 | Find the longest increasing subsequence (simple version) | ⬜ Not started |
-
-
-### Days 41–60: Object-Oriented Programming (Java/Kotlin/Groovy)
+### Days 21–40: Data Structures & Algorithms
 
 | Day | Task Description | Status |
-|:---|:------------------|:--------|
-| 41 | Create a simple `Person` class with getters/setters | ⬜ Not started |
-| 42 | Create an immutable `Point` class | ⬜ Not started |
-| 43 | Use inheritance to extend a base class | ⬜ Not started |
-| 44 | Use interfaces to define behavior | ⬜ Not started |
-| 45 | Create an abstract class and implement it | ⬜ Not started |
-| 46 | Override `equals` and `hashCode` correctly | ⬜ Not started |
-| 47 | Demonstrate polymorphism with a shape hierarchy | ⬜ Not started |
-| 48 | Implement a basic builder pattern | ⬜ Not started |
-| 49 | Use static methods and properties | ⬜ Not started |
-| 50 | Create an enum with custom fields | ⬜ Not started |
-| 51 | Implement a singleton in each language | ⬜ Not started |
-| 52 | Create a simple DSL in Groovy | ⬜ Not started |
-| 53 | Use Kotlin data classes effectively | ⬜ Not started |
-| 54 | Write extension functions in Kotlin | ⬜ Not started |
-| 55 | Write category classes in Groovy | ⬜ Not started |
-| 56 | Implement operator overloading in Groovy | ⬜ Not started |
-| 57 | Create a sealed class hierarchy in Kotlin | ⬜ Not started |
-| 58 | Use Java records to model simple data | ⬜ Not started |
-| 59 | Create a companion object in Kotlin | ⬜ Not started |
-| 60 | Demonstrate method overloading and overriding | ⬜ Not started |
+|-----|------------------|--------|
+| 21 | Implement binary search on a sorted list | ⬜ Not started |
+| 22 | Check if a binary tree is height-balanced | ⬜ Not started |
+| 23 | Perform breadth-first search (BFS) on a graph | ⬜ Not started |
+| 24 | Perform depth-first search (DFS) on a graph | ⬜ Not started |
+| 25 | Implement a simple stack from scratch | ⬜ Not started |
+| 26 | Implement a queue using two stacks | ⬜ Not started |
+| 27 | Detect a cycle in a linked list | ⬜ Not started |
+| 28 | Remove duplicates from a linked list | ⬜ Not started |
+| 29 | Check whether two binary trees are structurally identical | ⬜ Not started |
+| 30 | Implement an LRU cache with a fixed capacity | ⬜ Not started |
+| 31 | Find the lowest common ancestor in a binary search tree | ⬜ Not started |
+| 32 | Convert a sorted list into a balanced BST | ⬜ Not started |
+| 33 | Count the leaf nodes of a binary tree | ⬜ Not started |
+| 34 | Serialize and deserialize a binary tree | ⬜ Not started |
+| 35 | Determine whether a graph is bipartite | ⬜ Not started |
+| 36 | Find all connected components in an undirected graph | ⬜ Not started |
+| 37 | Implement Dijkstra’s shortest path algorithm | ⬜ Not started |
+| 38 | Detect cycles in a directed graph | ⬜ Not started |
+| 39 | Implement topological sorting | ⬜ Not started |
+| 40 | Implement a trie with insert and search operations | ⬜ Not started |
 
-
-### Days 61–80: File I/O, JSON, Functional Code
+### Days 41–60: Functional, OOP, Generics & Files
 
 | Day | Task Description | Status |
-|:---|:------------------|:--------|
-| 61 | Read a text file and count lines | ⬜ Not started |
-| 62 | Write text to a file | ⬜ Not started |
-| 63 | Append data to a file | ⬜ Not started |
-| 64 | Parse a JSON string into an object | ⬜ Not started |
-| 65 | Serialize an object into JSON | ⬜ Not started |
-| 66 | Read a file line-by-line and filter values | ⬜ Not started |
-| 67 | Load configuration values from a properties file | ⬜ Not started |
-| 68 | Compute word frequency from a text file | ⬜ Not started |
-| 69 | Find the largest file in a directory | ⬜ Not started |
-| 70 | List all files with a given extension | ⬜ Not started |
-| 71 | Map over a list and transform values | ⬜ Not started |
-| 72 | Filter a list based on a predicate | ⬜ Not started |
-| 73 | Reduce a list to compute a total | ⬜ Not started |
-| 74 | Group a list by a property | ⬜ Not started |
-| 75 | Find distinct elements using streams/sequences | ⬜ Not started |
-| 76 | Flatten a nested list | ⬜ Not started |
-| 77 | Use closures/lambdas to transform data | ⬜ Not started |
-| 78 | Compute statistics (min, max, avg) from a list | ⬜ Not started |
-| 79 | Write a CSV file | ⬜ Not started |
-| 80 | Read CSV into objects | ⬜ Not started |
+|-----|------------------|--------|
+| 41 | Implement a higher-order function that applies a transformation to each element of a list | ⬜ Not started |
+| 42 | Write a generic pair/tuple class | ⬜ Not started |
+| 43 | Implement a Builder pattern for a data class | ⬜ Not started |
+| 44 | Create a class hierarchy with an abstract base class and two subclasses | ⬜ Not started |
+| 45 | Implement an interface with multiple implementations and a factory | ⬜ Not started |
+| 46 | Write a function that memoizes another function | ⬜ Not started |
+| 47 | Parse a CSV file into objects (no libraries) | ⬜ Not started |
+| 48 | Write a function that writes objects to a file in JSON-like format | ⬜ Not started |
+| 49 | Read a text file and return the 10 most common words | ⬜ Not started |
+| 50 | Count lines, words, and characters in a file | ⬜ Not started |
+| 51 | Implement an iterable class and custom iterator | ⬜ Not started |
+| 52 | Create a decorator-style wrapper that logs method calls | ⬜ Not started |
+| 53 | Implement a simple plugin system using reflection | ⬜ Not started |
+| 54 | Create a class that loads configuration from a key-value file | ⬜ Not started |
+| 55 | Implement shallow and deep clones for a composite object | ⬜ Not started |
+| 56 | Demonstrate covariance and contravariance using generics | ⬜ Not started |
+| 57 | Build a simple event dispatcher with listeners | ⬜ Not started |
+| 58 | Implement a type-safe Result/Either type | ⬜ Not started |
+| 59 | Compute directory size recursively | ⬜ Not started |
+| 60 | Implement a simple in-memory database table with CRUD | ⬜ Not started |
 
+### Days 61–80: Concurrency & Asynchrony
+
+| Day | Task Description | Status |
+|-----|------------------|--------|
+| 61 | Start three threads that perform work and wait for all to finish | ⬜ Not started |
+| 62 | Implement a producer/consumer queue | ⬜ Not started |
+| 63 | Avoid a deadlock by redesigning thread lock acquisition | ⬜ Not started |
+| 64 | Create a thread pool and schedule repetitive tasks | ⬜ Not started |
+| 65 | Compute a sum in parallel using multiple threads | ⬜ Not started |
+| 66 | Implement a debouncer | ⬜ Not started |
+| 67 | Implement a rate limiter | ⬜ Not started |
+| 68 | Create an asynchronous workflow using futures/promises | ⬜ Not started |
+| 69 | Build an actor-like message processor | ⬜ Not started |
+| 70 | Implement a thread-safe counter | ⬜ Not started |
+| 71 | Measure execution time of a block of code | ⬜ Not started |
+| 72 | Build a scheduler that runs tasks at a future time | ⬜ Not started |
+| 73 | Parallelize the processing of a large list in chunks | ⬜ Not started |
+| 74 | Simulate a traffic light system with concurrency | ⬜ Not started |
+| 75 | Build a pipeline of asynchronous transformations | ⬜ Not started |
+| 76 | Protect shared state with read/write locks | ⬜ Not started |
+| 77 | Implement a latch or barrier for thread coordination | ⬜ Not started |
+| 78 | Add timeout handling to an operation | ⬜ Not started |
+| 79 | Implement a cached thread pool with job prioritization | ⬜ Not started |
+| 80 | Detect race conditions in unsafe code and fix them | ⬜ Not started |
 
 ### Days 81–100: Small Applications & Multi-Language Challenges
 
