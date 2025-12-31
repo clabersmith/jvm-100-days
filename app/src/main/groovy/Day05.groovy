@@ -2,8 +2,9 @@ class Day05Groovy {
     static String getFirstNonRepeatingChar(String s) {
         // Uses for loop and indexOf/lastIndexOf
         for (char c in s.toCharArray()) {
-            if (s.indexOf(c) == s.lastIndexOf(c)) {
-                return String.valueOf(c)
+            def ss = String.valueOf(c)
+            if (s.indexOf(ss) == s.lastIndexOf(ss)) {
+                return ss
             }
         }
 
