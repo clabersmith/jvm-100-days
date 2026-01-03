@@ -12,7 +12,7 @@
 | 8 | Find the longest common prefix among an array of strings | ✅ Completed |
 | 9 | Capitalize the first letter of each word in a sentence | ✅ Completed |
 | 10 | Determine whether a string contains only unique characters | ✅ Completed |
-| 11 | Find the maximum number in a list | ⬜ Not started |
+| 11 | Find the maximum number in a list | ✅ Completed |
 | 12 | Compute the average of a list of integers | ⬜ Not started |
 | 13 | Remove all occurrences of a value from a list | ⬜ Not started |
 | 14 | Merge two sorted lists | ⬜ Not started |
